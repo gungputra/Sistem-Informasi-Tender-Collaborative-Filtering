@@ -7,12 +7,12 @@
 
 <title id="tittle"></title>
 
-<link rel="shortcut icon" type="image/x-icon" href="<?php echo base_url('assets/Pengerajin/main/images/favicon.ico') ?>">
-<link href="<?php echo base_url('assets/Pengerajin/main/css/bootstrap-custom.css') ?>" rel="stylesheet" type="text/css"/>
-<link href="<?php echo base_url('assets/Pengerajin/main/fonts/fontawesome/css/fontawesome-all.min.css') ?>" type="text/css" rel="stylesheet">
-<link href="<?php echo base_url('assets/Pengerajin/main/plugins/fancybox/fancybox.min.css') ?>" type="text/css" rel="stylesheet">
-<link href="<?php echo base_url('assets/Pengerajin/main/css/uikit.css') ?>" rel="stylesheet" type="text/css"/>
-<link href="<?php echo base_url('assets/Pengerajin/main/css/responsive.css') ?>" rel="stylesheet" media="only screen and (max-width: 1200px)" />
+<link rel="shortcut icon" type="image/x-icon" href="<?php echo base_url('assets/Produsen/main/images/favicon.ico') ?>">
+<link href="<?php echo base_url('assets/Produsen/main/css/bootstrap-custom.css') ?>" rel="stylesheet" type="text/css"/>
+<link href="<?php echo base_url('assets/Produsen/main/fonts/fontawesome/css/fontawesome-all.min.css') ?>" type="text/css" rel="stylesheet">
+<link href="<?php echo base_url('assets/Produsen/main/plugins/fancybox/fancybox.min.css') ?>" type="text/css" rel="stylesheet">
+<link href="<?php echo base_url('assets/Produsen/main/css/uikit.css') ?>" rel="stylesheet" type="text/css"/>
+<link href="<?php echo base_url('assets/Produsen/main/css/responsive.css') ?>" rel="stylesheet" media="only screen and (max-width: 1200px)" />
 
 </head>
 <body>
